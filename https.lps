@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="49">
+      <Unit0>
+        <Filename Value="https.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="22" Y="7"/>
+        <UsageCount Value="60"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="37"/>
+        <CursorPos Y="62"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\gadgetmarket\GadgetMarket2\dbinterface.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="783"/>
+        <CursorPos X="33" Y="783"/>
+        <UsageCount Value="60"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="synapse40\source\lib\asn1util.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="synapse40\source\lib\blcksock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="synapse40\source\lib\clamsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="synapse40\source\lib\dnssend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="synapse40\source\lib\ftpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="synapse40\source\lib\ftptsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="synapse40\source\lib\httpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="synapse40\source\lib\imapsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="synapse40\source\lib\laz_synapse.lpk"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="synapse40\source\lib\laz_synapse.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="synapse40\source\lib\ldapsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="synapse40\source\lib\mimeinln.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="synapse40\source\lib\mimemess.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="synapse40\source\lib\mimepart.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="synapse40\source\lib\nntpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="synapse40\source\lib\pingsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="synapse40\source\lib\pop3send.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="synapse40\source\lib\slogsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="synapse40\source\lib\smtpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="synapse40\source\lib\snmpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="synapse40\source\lib\sntpsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="synapse40\source\lib\ssdotnet.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="synapse40\source\lib\ssfpc.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="synapse40\source\lib\ssl_cryptlib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="synapse40\source\lib\ssl_openssl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="18" Y="99"/>
+        <UsageCount Value="60"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="synapse40\source\lib\ssl_openssl_lib.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1803"/>
+        <CursorPos Y="1815"/>
+        <UsageCount Value="60"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="synapse40\source\lib\ssl_sbb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="synapse40\source\lib\ssl_streamsec.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="synapse40\source\lib\sslinux.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="synapse40\source\lib\sswin32.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="synapse40\source\lib\synachar.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="synapse40\source\lib\synacode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="synapse40\source\lib\synacrypt.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="synapse40\source\lib\synadbg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="synapse40\source\lib\synafpc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="synapse40\source\lib\synaicnv.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="synapse40\source\lib\synaip.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="synapse40\source\lib\synamisc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="synapse40\source\lib\synaser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="synapse40\source\lib\synautil.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="synapse40\source\lib\synsock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="synapse40\source\lib\tlntsend.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="60"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="E:\lazarus64\fpc\3.0.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="630"/>
+        <CursorPos X="3" Y="643"/>
+        <UsageCount Value="6"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="E:\lazarus64\fpc\3.0.4\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="56"/>
+        <CursorPos X="49" Y="69"/>
+        <UsageCount Value="6"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="E:\lazarus64\fpc\3.0.4\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="116"/>
+        <CursorPos X="6" Y="129"/>
+        <UsageCount Value="6"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="E:\lazarus64\fpc\3.0.4\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="233"/>
+        <CursorPos X="13" Y="246"/>
+        <UsageCount Value="6"/>
+      </Unit48>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="57" Column="166" TopLine="40"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="59" TopLine="46"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="65" Column="165" TopLine="46"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="67" TopLine="47"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="55" Column="54" TopLine="50"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
